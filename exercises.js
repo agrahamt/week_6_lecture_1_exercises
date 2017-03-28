@@ -26,4 +26,4 @@ theTerminator.lastName = 'Schwarzenegger'
 console.log(theTerminator)
 
 // Write a new string that describes the object using all of the object's properties. Be sure to include the property you just created.
-console.log('Hi, my name is ' + theTerminator.firstName + ' ' + theTerminator.lastName + '. I am a ' + theTerminator.age +'-year-old ' + theTerminator.countryOfOrigin + 'n ' + theTerminator.jobTitle + ' who enjoys ' + theTerminator.firstOf20Questions + ' oil backrubs, long walks at sunset and wants to' + theTerminator.goal + '. Any rumors that I am a murderous killing machine are absolutely ' + theTerminator.human + '.')
+console.log('Hi, my name is ' + theTerminator.firstName + ' ' + theTerminator.lastName + '. I am a ' + theTerminator.age +'-year-old ' + theTerminator.countryOfOrigin + 'n ' + theTerminator.jobTitle + ' who enjoys ' + theTerminator.firstOf20Questions + ' oil backrubs, long walks at sunset and wants to ' + theTerminator.goal + '. Any rumors that I am a murderous killing machine are absolutely ' + theTerminator.human + '.')
